@@ -13,11 +13,14 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 
 Let's chat contact me: <br>
 
-<a href="https://github.com/xeli00">
-  <img src="https://user-images.githubusercontent.com/73821477/236173831-14e31ca9-3976-468c-a17f-219a8ab8fb66.png" alt="Logo GitHub" width="10px" height="10px"
-       class="darkmode-toggle"/>
-  <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" alt="Logo GitHub" 
-       class="lightmode-toggle"/>
-</a>
+<div id="darkmode-toggle">
+  <a href="https://github.com/xeli00">
+    <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github-white.png" alt="Logo GitHub" />
+    <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" alt="Logo GitHub" />
+  </a>
+</div>
 
-
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@2.1.6/dist/darkmode-js.min.js"></script>
+<script>
+  new Darkmode().showWidget();
+</script>
