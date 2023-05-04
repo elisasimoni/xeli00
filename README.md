@@ -16,6 +16,6 @@ Let's chat contact me: <br>
   <img src="https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png" alt="Logo GitHub" width="10px" height="10px"
        class="darkmode-toggle"/>
   <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" alt="Logo GitHub" 
-       class="darkmode-toggle"/>
+       class="lightmode-toggle"/>
 </a>
 
