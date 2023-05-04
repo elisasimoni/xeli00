@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, nice to meet you 👋
+I'm Elisa Simoni, I'm a Technical Specialist Intern at @Microsoft and Engineering and Computer Science student.
 
-<!--
-**xeli00/xeli00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education:
+At 3° year of Bachelor’s degree in Engineering and Computer Science at Università di Bologna.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About me:
+🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> 1556)
+🎵 I listen a lot of music
+
+Let's chat contact me:
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/xeli00)
