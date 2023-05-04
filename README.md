@@ -11,6 +11,6 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 
 Let's chat contact me:
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/xeli00)
-![Fancy logo](./https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-dark-mode-only)
-![Fancy logo](./https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-light-mode-only)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-dark-mode-only" width="25"/>](https://github.com/xeli00)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-dark-mode-only" width="25"/>](https://github.com/xeli00)
+
