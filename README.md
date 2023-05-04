@@ -1,5 +1,5 @@
 Hi there, nice to meet you 👋
-I'm Elisa Simoni, I'm a Technical Specialist Intern at @Microsoft and Engineering and Computer Science student.
+I'm Elisa Simoni, I'm a Modern Work Technical Specialist Intern @Microsoft and Engineering and Computer Science student.
 
 🎓 Education:
 At 3° year of Bachelor’s degree in Engineering and Computer Science at Università di Bologna.
@@ -7,7 +7,7 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 
 👨‍💻 About me:<br>
 🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> 1556)<br>
-🎵 I listen a lot of music <br>![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)
+🎵 I listen a lot of music <br>
 
 
 Let's chat contact me: <br>
