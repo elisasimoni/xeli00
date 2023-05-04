@@ -6,9 +6,10 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 
 
 👨‍💻 About me:<br>
-🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> 1556)<br>
+🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> **1556**)<br>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/xeli00/count.svg)
+
+<!-- Profile Counter ![Visitor Count](https://profile-counter.glitch.me/xeli00/count.svg)-->
 
 Let's chat! contact me: <br>
 
