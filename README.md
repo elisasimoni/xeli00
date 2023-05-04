@@ -16,5 +16,5 @@ Let's chat contact me:
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-dark-mode-only" width="25"/>](https://github.com/xeli00)*/
 -->
 
-![Github Logo](![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)#gh-dark-mode-only)
-![Github Logo](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-dark-mode-only#gh-light-mode-only)
+[<img src="![Github Logo](![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)#gh-dark-mode-only)"/>](https://github.com/xeli00)
+![Github Logo](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png#gh-light-mode-only)
