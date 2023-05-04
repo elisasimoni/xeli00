@@ -7,12 +7,12 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 
 👨‍💻 About me:<br>
 🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> 1556)<br>
-🎵 I listen a lot of music <br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/xeli00/count.svg)
 
+Let's chat! contact me: <br>
 
-Let's chat contact me: <br><!--
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)-->
-<a href="https://github.com/il_tuo_username">
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Logo GitHub in bianco" width="100" height="100" />
-  <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="Logo GitHub in nero" width="100" height="100" />
+<a href="https://github.com/xeli00">
+  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Logo GitHub in bianco" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="Logo GitHub in nero" width="50" height="50" />
 </a>
