@@ -10,10 +10,10 @@ At 3° year of Bachelor’s degree in Engineering and Computer Science at Univer
 🎵 I listen a lot of music <br>![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)
 
 
-Let's chat contact me:
+Let's chat contact me: <br>
 
 <a href="https://github.com/xeli00">
-  <img src="![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)" alt="Logo GitHub" 
+  <img src="![github](https://user-images.githubusercontent.com/73821477/236170047-1765662f-d5df-4f56-95ed-d3ca060f9966.png)" alt="Logo GitHub" width="10px" height="10px"
        class="darkmode-toggle"/>
   <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" alt="Logo GitHub" 
        class="darkmode-toggle"/>
