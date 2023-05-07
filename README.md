@@ -1,19 +1,20 @@
-Hi there, nice to meet you 👋
-I'm Elisa Simoni, I'm a Modern Work Technical Specialist Intern @Microsoft and Engineering and Computer Science student.
+# Hi there, I'm Elisa Simoni 👋
 
-🎓 Education:
-At 3° year of Bachelor’s degree in Engineering and Computer Science at Università di Bologna.
+## About Me
+I'm a Modern Work Technical Specialist Intern @Microsoft and Engineering and Computer Science student. I'm creative person who enjoys exploring different forms of art, including cinema and theatre. I'm passionate about technology and love to work on innovative projects that challenge me.
 
+## My Interests
+🤖 Artificial Intelligence: I'm passionate about exploring the potential of AI and its impact on society.<br>
+🕶️ Virtual and Augmented Reality: I'm fascinated by the possibilities of VR and AR and their potential to revolutionize the way we interact with technology.<br>
+🎬 Cinema: I love watching movies and analyzing their plot and cinematography.<br>
+🎭 Theatre: I enjoy watching plays and attending live performances.<br>
 
-👨‍💻 About me:<br>
-🎬 Film and TV Series addicted (Live Counter Of Number of Film I have seen -> **1556**)<br>
-<br>
+## My Skills
+💻 Programming: I have experience in various programming languages, including Python, and Kotlin. I'm also proficient in HTML and CSS.<br>
+🧰 Technical Skills: I'm skilled in using tools such as Microsoft Office, Visual Studio Code, and GitHub.<br>
+🎨 Creativity: I love to think outside the box and come up with innovative solutions to problems.<br>
 
-<!-- Profile Counter ![Visitor Count](https://profile-counter.glitch.me/xeli00/count.svg)-->
+## How to Reach Me
+If you have any questions or want to connect, feel free to reach out to me on LinkedIn or Twitter.<br>
 
-Let's chat! contact me: <br>
-
-<a href="https://github.com/xeli00">
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Logo GitHub in bianco" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="Logo GitHub in nero" width="50" height="50" />
-</a>
+Thanks for stopping by! 😊
