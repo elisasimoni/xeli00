@@ -15,6 +15,7 @@ I'm a Modern Work Technical Specialist Intern @Microsoft and Engineering and Com
 🎨 Creativity: I love to think outside the box and come up with innovative solutions to problems.<br>
 
 ## How to Reach Me
-If you have any questions or want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/elisa-simoni00/) or Twitter.<br>
+If you have any questions or want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/elisa-simoni00/) or [Email me](mailto:simoni.elisa00@gmail.com)
+.<br>
 
 Thanks for stopping by! 😊
